@@ -1,5 +1,5 @@
-# streamer
-@stealify/streamer is a VSStealify App Shell based Streaming Boardcaster Software do net get confused with @stealify/boardcast which is a similar stack but a diffrent Interface for diffrent needs. This Distribution gets used by the Broadcaster one which is more like obs and Prism. If you already use @stealify/broadcaster you can simply install the Stealify Streamer Interface as Marketplace addon and vice versa.
+# @stealify/VStreaming
+is a VSStealify App Shell based Visual Streaming Boardcaster Studio Software do net get confused with @stealify/boardcast which is a similar stack but a diffrent Interface for diffrent needs. This Distribution gets used by the Broadcaster one which is more like obs and Prism. If you already use @stealify/broadcaster you can simply install the Stealify Streamer Interface as Marketplace addon and vice versa.
 
 ## Features?
 - OBS drop in Replacement and or Integration 
